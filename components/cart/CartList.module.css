@@ -21,7 +21,8 @@
   padding-top: 10px;
 }
 
-.amount, .price {  
+.amount,
+.price {
   display: inline-block;
   width: 120px;
 }
